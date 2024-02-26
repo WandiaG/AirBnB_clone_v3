@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A module tha creates a new view for User objects"""
+"""Create a new view for User objects"""
 from models import storage
 from models.user import User
 from api.v1.views import app_views
