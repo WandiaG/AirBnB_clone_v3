@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module that creates a view for the State objects to handle
+"""Create a new view for State objects that handles
 all default RESTFul API actions"""
 from models import storage
 from models.amenity import Amenity
